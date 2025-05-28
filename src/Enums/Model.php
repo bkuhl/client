@@ -14,6 +14,7 @@ enum Model: string
     case GROK_2_1212 = 'grok-2-1212';
     case GROK_2 = 'grok-2';
     case GROK_2_LATEST = 'grok-2-latest';
+    case GROK_3 = 'grok-3';
     case GROK_BETA = 'grok-beta';
 
     /**
